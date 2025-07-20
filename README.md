@@ -69,8 +69,12 @@ Examples of scraped categories include:
 
 ## Disclaimer
 
-This project is for educational and personal analysis use only. Respect ESPN Cricinfo’s terms of service.
+This project is intended **solely for educational and personal use**.
 
----
+- We are **not affiliated with ESPNcricinfo** or its parent company.
+- All data collected is publicly available and is not used for any commercial purpose.
+- The website's robots.txt was checked at the time of development and did not explicitly disallow scraping.
+- If ESPNcricinfo or any associated entity requests removal or modification of this project, we will comply promptly.
 
-Feel free to further customize or expand this README for your needs!
+Please use responsibly and respect the terms of service of any website you interact with.
+
