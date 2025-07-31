@@ -1,4 +1,4 @@
-# Web Scraping ESPN Cricinfo - Bowling Records
+# Sports Statistics Extractor: Structured Reports from Cricket Data - Bowling Records
 
 This project automates the extraction of international cricket bowling records from the ESPN Cricinfo website. Using Selenium (with undetected-chromedriver), it navigates through various statistical categories, scrapes paginated data tables, and saves the results in CSV format for further analysis.
 
